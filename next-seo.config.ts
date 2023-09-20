@@ -2,7 +2,7 @@ export default {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://github.com/EdsonCandido73/my-trips',
+    url: 'https://my-trips-edsoncandido73.vercel.app/',
     site_name: 'My Trips'
   },
   twitter: {
