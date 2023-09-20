@@ -1,5 +1,6 @@
 import { useRouter } from 'next/router'
 import { MapContainer, Marker, TileLayer } from 'react-leaflet'
+//import 'leaflet/dist/leaflet.css'
 
 type Place = {
   id: string

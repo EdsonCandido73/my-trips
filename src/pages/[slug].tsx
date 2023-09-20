@@ -32,6 +32,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
 
   return {
     props: {
+      revalidate: 5,
       heading: page.heading,
       body: page.body.html
     }
